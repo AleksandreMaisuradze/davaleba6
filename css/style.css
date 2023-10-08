@@ -1,0 +1,65 @@
+/* Start Header  */
+.container {
+    width: min(100%, 1440px);
+    margin: 0 auto;
+}
+
+.main_header {
+    width: 1440px;
+    display: flex;
+    padding: 52px 98px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header_logo {
+    width: 127px;
+    height: 46px;
+}
+
+.header_nav {
+    width: 393px;
+}
+
+.nav_ul {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav_text {
+    font-family: Ubuntu;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 28px;
+
+}
+
+.active {
+    color: #27187F;
+}
+
+.no_active {
+    color: #758BFD;
+}
+
+.search {
+    width: 221px;
+    padding-left: 165px;
+    border: 5px solid #27187F;
+    border-radius: 10px;
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+.fa-magnifying-glass {
+    font-size: 56px;
+    color: #758BFD;
+}
+
+/* Start Section */
+.main_section {
+    width: 1440px;
+    padding: 115px 98px;
+    background-color: #DDEAF8;
+}
