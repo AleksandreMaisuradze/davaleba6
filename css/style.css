@@ -105,3 +105,43 @@
 }
 
 /* Start Footer  */
+.main_footer {
+    width: 1440px;
+    height: 239px;
+    padding: 75px 98px;
+    background-color: #758BFD;
+    display: flex;
+}
+
+.contact_title {
+    font-family: Century Gothic;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 17px;
+    color: #00CAD7;
+}
+
+.mail {
+    font-family: Century Gothic ;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 17px;
+    margin: 21px 0 12px;
+    color: #FFFFFF;
+}
+
+.icons {
+    width: 160px;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    font-size: 22px;
+}
+
+.payment {
+    width: 421px;
+    margin-left: 663px;
+    justify-content: space-between;
+}
+
+/* Finish  */
