@@ -145,6 +145,7 @@
 .payment {
     width: 421px;
     margin-left: 663px;
+    display: flex;
     justify-content: space-between;
 }
 
