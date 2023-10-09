@@ -134,6 +134,10 @@
     width: 160px;
     display: flex;
     justify-content: space-between;
+
+}
+
+.fa-brands {
     color: white;
     font-size: 22px;
 }
